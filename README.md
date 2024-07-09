@@ -1,6 +1,6 @@
 # Line-Following-Robot
 
-Configured motor, IR, and ultrasonic sensor pins.
+A Tinkering Project>Configured motor, IR, and ultrasonic sensor pins.
 
 
 Implemented line following and obstacle detection.
